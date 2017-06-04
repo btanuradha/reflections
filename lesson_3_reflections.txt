@@ -4,3 +4,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	We are in control of the changes, so we will know when to pull the changes from remote
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks can be used only on GitHub, 
+	branches can be on both git and git hub
+	clone - we can clone from gitHub to Git and on local machine (git)
+
+	
