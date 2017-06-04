@@ -10,4 +10,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	branches can be on both git and git hub
 	clone - we can clone from gitHub to Git and on local machine (git)
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	we will know that we have the latest copy of the remote in the local machine
+
+
 	
